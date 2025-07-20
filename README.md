@@ -1,4 +1,4 @@
-# Recurring Date Picker Component
+# Recurring Date Picker Component Project
 
 This project implements a reusable recurring date picker component in React.js, inspired by features found in applications like TickTick. It allows users to define various recurrence patterns and visualize the generated dates on a mini-calendar.
 
